@@ -1,0 +1,39 @@
+
+ .bar{
+ 	position: absolute;
+ 	margin-left: 510px;
+ 	margin-top: -140px;
+ 	transition: 0.1s linear;
+ 	transform-origin: bottom right;
+ }
+
+
+ #score{
+ 	color: white;
+ 	margin-left: 30px;
+ 	margin-top: -60px;
+ 	position: absolute;
+ 	font-size: 30px;
+ }
+
+ #shotsLeft{
+ 	color: white;
+ 	margin-left: 230px;
+ 	margin-top: -60px;
+ 	position: absolute;
+ 	font-size: 30px;
+ }
+
+ .can{
+ 	position: absolute;
+ 	margin-left: 480px;
+ 	margin-top: -90px;
+ }
+
+ .explosion{
+ 	position: absolute;
+ 	visibility: hidden;
+ 	margin-top: -600px;
+ 	/*z-index: 2;*/
+ }
+
